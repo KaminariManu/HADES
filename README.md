@@ -83,8 +83,7 @@ HADES has provided a framework that not only exposes the weaknesses of modern CN
 
 - **/attacks:** Scripts implementing FGSM, PGD, and JSMA attacks.  
 - **/defenses:** Implementation of adversarial training and defense distillation techniques.  
-- **/data:** Scripts for processing and augmenting CIFAR-10 images.  
-- **/results:** Jupyter notebooks, plots, and logs documenting experimental outcomes.  
+- **/results:** csv documenting experimental outcomes.  
 - **README.md:** Comprehensive documentation of the project, including setup instructions, experimental details, and future work.
 
 ---
