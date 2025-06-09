@@ -1,0 +1,11 @@
+True Label,Most Confused With,Count,Percentage,Mean PSNR
+airplane,cat,676,23.13%,24.49
+automobile,cat,966,29.74%,24.55
+bird,cat,1344,38.51%,24.49
+cat,deer,869,36.27%,24.52
+deer,frog,940,25.98%,24.43
+dog,cat,1113,50.43%,24.47
+frog,cat,1667,52.03%,24.48
+horse,cat,1326,37.85%,24.45
+ship,cat,759,20.96%,24.45
+truck,ship,590,21.17%,24.52
